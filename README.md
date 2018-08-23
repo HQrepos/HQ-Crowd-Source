@@ -17,4 +17,6 @@ Firefox browser and geckodriver is also required to run it.
 
 ## Usage
 
+```bash
 $ python3 HQ_Bot.py
+```
